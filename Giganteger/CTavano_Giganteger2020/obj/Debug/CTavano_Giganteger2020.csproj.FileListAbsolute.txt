@@ -1,0 +1,7 @@
+C:\Users\chris\Documents\Nait\CMPE 2800 - Advanced C# Programming\Labs\CTavano_Giganteger2020\CTavano_Giganteger2020\bin\Debug\CTavano_Giganteger2020.exe.config
+C:\Users\chris\Documents\Nait\CMPE 2800 - Advanced C# Programming\Labs\CTavano_Giganteger2020\CTavano_Giganteger2020\bin\Debug\CTavano_Giganteger2020.exe
+C:\Users\chris\Documents\Nait\CMPE 2800 - Advanced C# Programming\Labs\CTavano_Giganteger2020\CTavano_Giganteger2020\bin\Debug\CTavano_Giganteger2020.pdb
+C:\Users\chris\Documents\Nait\CMPE 2800 - Advanced C# Programming\Labs\CTavano_Giganteger2020\CTavano_Giganteger2020\obj\Debug\CTavano_Giganteger2020.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Nait\CMPE 2800 - Advanced C# Programming\Labs\CTavano_Giganteger2020\CTavano_Giganteger2020\obj\Debug\CTavano_Giganteger2020.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Nait\CMPE 2800 - Advanced C# Programming\Labs\CTavano_Giganteger2020\CTavano_Giganteger2020\obj\Debug\CTavano_Giganteger2020.exe
+C:\Users\chris\Documents\Nait\CMPE 2800 - Advanced C# Programming\Labs\CTavano_Giganteger2020\CTavano_Giganteger2020\obj\Debug\CTavano_Giganteger2020.pdb
