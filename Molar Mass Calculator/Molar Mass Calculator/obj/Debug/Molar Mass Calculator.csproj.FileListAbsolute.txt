@@ -1,0 +1,20 @@
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\bin\Debug\Molar Mass Calculator.exe.config
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\bin\Debug\Molar Mass Calculator.exe
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\bin\Debug\Molar Mass Calculator.pdb
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.csprojAssemblyReference.cache
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar_Mass_Calculator.Properties.Resources.resources
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.csproj.GenerateResource.cache
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.csproj.CoreCompileInputs.cache
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.exe
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.pdb
+C:\Users\krdyb\Desktop\Projects\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar_Mass_Calculator.Main.resources
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\bin\Debug\Molar Mass Calculator.exe.config
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\bin\Debug\Molar Mass Calculator.exe
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\bin\Debug\Molar Mass Calculator.pdb
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.csprojAssemblyReference.cache
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar_Mass_Calculator.Main.resources
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar_Mass_Calculator.Properties.Resources.resources
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.csproj.GenerateResource.cache
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.csproj.CoreCompileInputs.cache
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.exe
+D:\NAIT\CMPE 2800 - Advanced C# Programming\Labs\Molar Mass Calculator\Molar-Mass-Calculator-main\Molar Mass Calculator\Molar Mass Calculator\obj\Debug\Molar Mass Calculator.pdb
