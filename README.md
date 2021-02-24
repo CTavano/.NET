@@ -1,5 +1,3 @@
-Welcome to the .NET wiki!
-
 These programs were programmed in the C# language using Microsoft Visual Studio 2019.
 
 - **Gigantager** : Solo project to bypass the range constraints of a unsigned integer.
