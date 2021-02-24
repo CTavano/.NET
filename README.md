@@ -3,3 +3,4 @@ These programs were programmed in the C# language using Microsoft Visual Studio 
 - **Gigantager** : Solo project to bypass the range constraints of a unsigned integer.
 - **Molar mass calculator** : Collaboration project with Curtis Kordyban to find the molar mass of a molecule simply by entering in the chemical formula.
 - **Pointy pixel penetration** : Solo project using GDI+ to understand double-buffering, graphics paths, regions, and basic transforms.
+- **UDP Chat Client** : Collaboration project with Eric Kumbata to create a UDP Chat client for user communication and skinned to look like it belongs in the 90's
